@@ -14,3 +14,4 @@ Module 6: Python API
 <img width="626" alt="image" src="https://github.com/RP8844/python-api-challenge/assets/118138351/b376fdf8-d976-461b-98e8-80726c092bef">
 <img width="961" alt="image" src="https://github.com/RP8844/python-api-challenge/assets/118138351/ab3545b8-b161-4698-9da1-8fac92382ac2">
 <img width="960" alt="image" src="https://github.com/RP8844/python-api-challenge/assets/118138351/bb802581-94d4-43f7-b95b-778499def662">
+Resources: 5 x ASK BCS assistants, Module 6 in-class activities and classes. Chat GPT, Google, class instructor, Arooj A Qureshi.
