@@ -1,5 +1,5 @@
 # python-api-challenge
-Module 6: Python API
+## Module 6: Python API
 
 
 <img width="618" alt="image" src="https://github.com/RP8844/python-api-challenge/assets/118138351/6efa27bc-7a1a-41b1-a73f-faed7f74d2e1">
